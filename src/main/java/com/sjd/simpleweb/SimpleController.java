@@ -10,6 +10,6 @@ public class SimpleController
     @RequestMapping("/sayHello") 
     String sayHello ()
     {
-        return "Hello World";
+        return "Hello World from Steve";
     }
 }
